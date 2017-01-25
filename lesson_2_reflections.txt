@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+ When you initialize a repository, it begins as an empty repository.  Running git
+ status will reveal any files you have within that repository that has not been
+ committed.  These files are "untracked files", meaning they have not been comitted.
+ If you do not initialize a repository, you will not be able to commit any of its
+ files to Github.
