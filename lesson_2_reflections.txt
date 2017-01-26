@@ -5,3 +5,19 @@ What happens when you initialize a repository? Why do you need to do it?
  committed.  These files are "untracked files", meaning they have not been comitted.
  If you do not initialize a repository, you will not be able to commit any of its
  files to Github.
+
+
+
+
+
+How is the staging area different from the working directory and the repository? What 
+value do you think it offers?
+
+ The staging area is different from the working directory and repository in that it is
+ an intermediate step between the two.  In order to add files into a repository, you
+ must first take it from the working directory and add it into the staging area.  Once
+ the file is added into the staging area, it can then be committed.  The committed file
+ now exists in the repository.
+ This allows users to view all the files they would like to add into a single commit and
+ helps clarify the logical change and purpose of the commit.
+ 
