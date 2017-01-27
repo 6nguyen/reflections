@@ -1,1 +1,4 @@
 Why would you want to create a remote repository rather than keeping all your work local? 
+
+ A remote repository allows the creator to work on the file cross-platforms.  It also
+ allows for easy collaboration from other users, since the files are stored remotely.
